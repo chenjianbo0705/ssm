@@ -1,0 +1,12 @@
+bobo\learning\ssm\service\impl\OrdersServiceImpl.class
+bobo\learning\ssm\service\IOrdersService.class
+bobo\learning\ssm\service\IProductService.class
+bobo\learning\ssm\service\ISysLogService.class
+bobo\learning\ssm\service\impl\PermissionServiceImpl.class
+bobo\learning\ssm\service\IUserService.class
+bobo\learning\ssm\service\impl\ProductServiceImpl.class
+bobo\learning\ssm\service\impl\SysLogServiceImpl.class
+bobo\learning\ssm\service\IRoleService.class
+bobo\learning\ssm\service\IPermissionService.class
+bobo\learning\ssm\service\impl\RolerServiceImpl.class
+bobo\learning\ssm\service\impl\UserServiceImpl.class

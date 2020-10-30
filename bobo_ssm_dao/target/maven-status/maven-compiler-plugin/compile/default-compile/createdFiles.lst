@@ -1,0 +1,8 @@
+bobo\learning\ssm\dao\ISysLogDao.class
+bobo\learning\ssm\dao\ITravellerDao.class
+bobo\learning\ssm\dao\IUserDao.class
+bobo\learning\ssm\dao\IProductDao.class
+bobo\learning\ssm\dao\IMemberDao.class
+bobo\learning\ssm\dao\IOdersDao.class
+bobo\learning\ssm\dao\IPermissionDao.class
+bobo\learning\ssm\dao\IRoleDao.class

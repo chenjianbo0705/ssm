@@ -1,0 +1,7 @@
+bobo\learning\ssm\controller\LogAop.class
+bobo\learning\ssm\controller\PermissionController.class
+bobo\learning\ssm\controller\UserController.class
+bobo\learning\ssm\controller\SysLogController.class
+bobo\learning\ssm\controller\OrdersController.class
+bobo\learning\ssm\controller\ProductController.class
+bobo\learning\ssm\controller\RoleController.class

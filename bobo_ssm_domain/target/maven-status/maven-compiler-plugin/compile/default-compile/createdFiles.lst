@@ -1,0 +1,8 @@
+bobo\learning\ssm\domain\Member.class
+bobo\learning\ssm\domain\SysLog.class
+bobo\learning\ssm\domain\Product.class
+bobo\learning\ssm\domain\Role.class
+bobo\learning\ssm\domain\Orders.class
+bobo\learning\ssm\domain\Traveller.class
+bobo\learning\ssm\domain\UserInfo.class
+bobo\learning\ssm\domain\Permission.class
